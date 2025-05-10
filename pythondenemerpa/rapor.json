@@ -1,0 +1,32 @@
+[
+    {
+        "satir": 3,
+        "yorum": "# Bu for dongusu listeyi gezer.",
+        "sonuc": "Doğru",
+        "oneri": ""
+    },
+    {
+        "satir": 7,
+        "yorum": "# While dongusu burada baslar",
+        "sonuc": "Yanlış",
+        "oneri": "En az 3 kelime, büyük harf, anahtar kelime içermeli ve nokta ile bitmeli."
+    },
+    {
+        "satir": 11,
+        "yorum": "# Bu kod try except yapisi ile hatalari yakalar.",
+        "sonuc": "Doğru",
+        "oneri": ""
+    },
+    {
+        "satir": 17,
+        "yorum": "# for.",
+        "sonuc": "Yanlış",
+        "oneri": "En az 3 kelime, büyük harf, anahtar kelime içermeli ve nokta ile bitmeli."
+    },
+    {
+        "satir": 21,
+        "yorum": "# If kosulu kontrol eder.",
+        "sonuc": "Doğru",
+        "oneri": ""
+    }
+]
